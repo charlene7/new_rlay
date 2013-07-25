@@ -1,0 +1,39 @@
+Home:
+
+- El video propuesto eliminarlo, debido a que mucho peso para el sitio visto desde el celular
+- Quizás reducir los servicios que están allí, y que sean como un link que dirija a la sección correspondiente en tab servicios
+
+Ej:
+
+Estudiamos la problemática de ... [+] (el + lleve a donde corresponde en el tab de servicios, alli el usuario puede leer más)
+
+
+
+Servicios:
+
+Todo ok
+
+
+
+Productos:
+
+- Video, para este caso particular es posible hacerlo, claro que algo muy corto para mostrar el producto(en revisión).
+- Eliminar sección que aparecen las tecnologías que trabajamos, ya que se usó en servicios y home
+
+
+
+Proyectos:
+
+Todo ok
+
+
+
+Equipo:
+
+Todo ok
+
+
+
+Contacto:
+
+Todo ok, eso si hay que revisar como se iría adecuando el contenido del blog
